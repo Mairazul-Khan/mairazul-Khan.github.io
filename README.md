@@ -4,7 +4,7 @@
   **A fully responsive personal portfolio website, compatible with all devices, built using HTML, CSS, and JavaScript.
 This repository contains multiple versions of Mairazul Khan's portfolio, showcasing DevOps skills and projects.**
   
-  <a href="https://mairazul-khan.github.io/myportfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mairazul-khan.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -127,13 +127,13 @@ Both portfolios can be deployed to:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Mairazul-Khan/myportfolio.git
+sudo git clone https://github.com/Mairazul-Khan/mairazul-Khan.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Mairazul-Khan/myportfolio.git
+git clone https://github.com/Mairazul-Khan/mairazul-Khan.github.io.git
 ```
 
 
